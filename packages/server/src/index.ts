@@ -6,6 +6,7 @@ export {routes} from "./routes"
 export {normalize, ServerConfig} from "./config"
 export {resolveBinAsync} from "./resolve-bin-async"
 export {ManifestLoader} from "./stages/manifest"
+export * from "./next-plugins"
 export * from "./rpc"
 export * from "./supertokens"
 
